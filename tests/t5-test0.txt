@@ -1,0 +1,4 @@
+Hello world! This is test number one.
+We need to find the most frequent character.
+Here letter 'e' should be the winner.
+Let's count: eeeee letters here!
