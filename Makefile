@@ -2,7 +2,7 @@
 # Main Config and Targets
 # =============================================================================
 CC				::=		gcc
-CFLAGS			::=		-Wall -Werror -Wextra -std=c11 -pedantic -g
+CFLAGS			::=		-Wall -Werror -Wextra -std=c11 -pedantic -g -lm
 
 SOURCES			::=		$(wildcard src/task-*.c)
 TASKS			::=		task-1 task-2 task-3 task-4 task-5 task-6
